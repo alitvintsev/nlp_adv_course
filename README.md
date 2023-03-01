@@ -1,2 +1,2 @@
-# nlp_adv_course
-master
+# Solutions for Advanced NLP Course (MIPT & Sber)
+
