@@ -128,3 +128,7 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+# Embedding Data
+data/glove.6B.zip
+data/glove/
